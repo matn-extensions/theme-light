@@ -1,0 +1,16 @@
+{
+  "name": "Light",
+  "type": "light",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#FFFFFF",
+    "barBg": "#F3F3F3",
+    "text": "#1E1E1E",
+    "muted": "#6C6C6C",
+    "accent": "#007ACC",
+    "activeLine": "#EEEEEE",
+    "cursor": "#000000",
+    "border": "#DADADA"
+  }
+}

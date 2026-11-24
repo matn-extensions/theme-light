@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.light",
+  "name": "Light Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Clean and crisp high-contrast daylight theme",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-light"
+}
